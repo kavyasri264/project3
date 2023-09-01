@@ -1,0 +1,12 @@
+body{
+     background-image: url("../technology1.jpg");
+    }
+h1{
+    color: blue;
+  }
+p{
+    color: purple;
+ }
+h3{
+    color: red;
+  }
